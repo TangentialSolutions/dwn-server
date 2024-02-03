@@ -13,3 +13,4 @@ node_modules
 tmp
 dwn.db
 coverage
+.idea
